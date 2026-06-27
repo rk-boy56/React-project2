@@ -1,0 +1,16 @@
+@import "tailwindcss";
+.container{
+    width: 80%;
+    margin: auto;
+}
+
+.swiper-pagination-bullets {
+    margin-top: 50px;
+}
+
+.swiper-pagination  {
+    position: relative !important; 
+    margin-top: 50px;
+    padding: -29px;
+    z-index: 99;
+}
